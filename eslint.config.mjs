@@ -14,6 +14,7 @@ export default [
         require: true,
         module: true,
         process: true,
+        __dirname: true,
       },
     },
   },
